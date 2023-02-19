@@ -3,6 +3,7 @@
     "name": "Stop Social Media",
     "version": "1.0",
     "options_page": "options.html",
+    "description": "Chrome Extension that prevents you from opening social media.",
     "permissions": ["storage","tabs"],
     "background": {
       "scripts": ["background.js"],
